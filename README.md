@@ -1,2 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZGMFX20A-97&show_icons=true&theme=radical&locale=en&rank_icon=github&line_height=29&custom_title=CatInPajamas)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZGMFX20A-97&show_owner=true&layout=donut&theme=radical&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+![My user statistics](images/userstats.svg)
