@@ -25,7 +25,7 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         colors: dark
-        hide-keys: joined, mostStarred, mostForked, sponsors, following
+        hide-keys: general
         animated-language-chart: true
         top-icon: none
         small-title: true
