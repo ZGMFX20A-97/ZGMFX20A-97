@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      
+
     steps:
     - uses: actions/checkout@v4
 
@@ -25,5 +25,12 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         colors: dark
+        hide-keys: joined, mostStarred, mostForked, sponsors, following
+        animated-language-chart: true
+        top-icon: none
+        small-title: true
+        custom-title: 'The best way to predict the future is to invent it.'
+        language-animation-speed: 10
+        commit-message: 'Automated change by https://github.com/cicirello/user-statistician'
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
