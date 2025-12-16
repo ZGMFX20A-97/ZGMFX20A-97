@@ -29,7 +29,7 @@ jobs:
         animated-language-chart: true
         top-icon: none
         small-title: true
-        custom-title: 'The best way to predict the future is to invent it.'
+        custom-title: 'Talk is cheap.Show you my trash code.'
         language-animation-speed: 10
         commit-message: 'Automated change by https://github.com/cicirello/user-statistician'
       env:
